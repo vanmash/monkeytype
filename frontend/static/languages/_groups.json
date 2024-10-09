@@ -17,6 +17,13 @@
     ]
   },
   {
+    "name": "hands",
+    "languages": [
+      "left_english",
+      "right_english"
+    ]
+  },
+  {
     "name": "spanish",
     "languages": ["spanish", "spanish_1k", "spanish_10k", "spanish_650k"]
   },
